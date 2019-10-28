@@ -1,3 +1,3 @@
-# yellow
+# Sunflower
 
-![alt image](https://raw.githubusercontent.com/CaianKardoso/yellow/master/demo/search.png)
+![alt image](https://raw.githubusercontent.com/CaianKardoso/Sunflower/master/demo/search.png)

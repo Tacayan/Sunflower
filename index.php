@@ -2,6 +2,15 @@
 require 'header.php';
 
 ?><br><br>
+
+<style>
+	footer {
+		bottom: 0px;
+		width: 100%;
+		position: fixed;
+	}
+</style>
+
 <div class="card container bg-dark text-warning">
 	<div class="card-header">
 		Search ex
@@ -17,6 +26,6 @@ require 'header.php';
 	</div>
 </div>
 
-	<?php
+<?php
 
-	require 'footer.php';
+require 'footer.php';

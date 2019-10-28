@@ -15,7 +15,7 @@ $ex = new ex();
 	<div class="card-body">
 		<form mehtod="get" action="search.php">
 			<div class="form-group">
-				<label for="search">Name</label>
+				<label for="search">ex's name</label>
 				<input type="text" class="form-control" required id="search" name="name" placeholder="Full Name" value="<?php echo $_GET['name'] ?>">
 			</div>
 			<button type="submit" class="btn btn-warning">search</button>
@@ -28,3 +28,5 @@ $ex = new ex();
 $ex->searchEx($_GET['name']);
 
 require 'footer.php';
+
+?>

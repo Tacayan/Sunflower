@@ -1,11 +1,12 @@
 <br><br>
-<!-- <br><br><footer class="page-footer bg-dark">
+
+<footer class="page-footer bg-dark">
 
   <div class="footer-copyright text-center py-3 text-warning">© 2018 Copyright:
-    <a href="">caiankardoso</a>
+    <a href="https://www.instagram.com/caiankardoso/?hl=pt-br">caiankardoso</a>
   </div>
 
-</footer> -->
+</footer>
 
 <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

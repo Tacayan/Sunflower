@@ -8,13 +8,25 @@
 
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+	<link href="https://fonts.googleapis.com/css?family=Sunflower:300&display=swap" rel="stylesheet">
 	<link rel="icon" href="../sunflower.ico" type="image/icon">
 	<style>
+		* {
+			font-family: Sunflower;
+		}
+
+		footer {
+			margin-top: auto;
+		}
+
 		body {
 			background-image: url(https://data.whicdn.com/images/270857991/original.png);
 			background-size: 100%;
 			background-repeat: no-repeat;
 			background-attachment: fixed;
+
+			min-height: 100%;
 		}
 
 		::-webkit-scrollbar-track {
@@ -31,16 +43,16 @@
 		}
 
 		@media only screen and (min-width : 320px) and (max-width : 480px) {
-	background: url(../images/mobile.jpg) no-repeat center center fixed;
-}
+			background: url(../images/mobile.jpg) no-repeat center center fixed;
+		}
 	</style>
 
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-	<title>Yellow</title>
+	<title>Sunflower</title>
 </head>
 
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-		<a class="navbar-brand text-warning" href="#">Yellow</a><a href="../index.php" class="btn btn-warning float-right"> <i class="material-icons tiny">home</i></a>
+		<a class="navbar-brand text-warning" href="#">Sunflower</a><a href="../index.php" class="btn btn-warning float-right"> <i class="material-icons tiny">home</i></a>
 	</nav>
