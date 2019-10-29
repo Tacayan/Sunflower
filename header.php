@@ -42,9 +42,6 @@
 			background: #dad7d7;
 		}
 
-		@media only screen and (min-width : 320px) and (max-width : 480px) {
-			background: url(../images/mobile.jpg) no-repeat center center fixed;
-		}
 	</style>
 
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
