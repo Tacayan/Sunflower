@@ -22,11 +22,9 @@
 
 		body {
 			background-image: url(https://data.whicdn.com/images/270857991/original.png);
-			background-size: 100%;
+			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			background-attachment: fixed;
-
-			min-height: 100%;
 		}
 
 		::-webkit-scrollbar-track {
